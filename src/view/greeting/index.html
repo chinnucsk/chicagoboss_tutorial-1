@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>{% block title %}Greetings{% endblock %}</title>
+</head>
+<body>
+{% block body %}
+<h1>List of Greetings:</h1>
+<ul>
+{% if greetings %}
+  {% for greeting in greetings %}
+    <li>{{ greeting.greetingtext }}</li>
+  {% endfor %}
+{% else %}
+  <li>Found No Greetings</li>
+{% endif %}
+</ul>
+{% endblock %}
+</form>
+</body>
+</html>

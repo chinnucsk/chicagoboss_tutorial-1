@@ -1,0 +1,2 @@
+-module(greeting, [Id, GreetingText, Author]).
+-compile(export_all).

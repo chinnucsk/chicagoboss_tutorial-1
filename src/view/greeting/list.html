@@ -1,0 +1,30 @@
+<html>
+<head>
+  <title>{% block title %}Greetings!{% endblock %}</title>
+  <link rel="stylesheet" type="text/css" href="/static/bootstrap.css">
+</head>
+<body>
+{% block body %}
+
+{% if greetings %}
+	<ul>
+  {% for greeting in greetings %}
+    <li>{{ greeting.greeting_text }} : {{ greeting.author }}</li>
+  {% endfor %}
+  </ul>
+{% else %}
+    <h1>No greetings!</h1>
+
+{% endif %}
+
+<h3><a href="{% url action="create" %}">New greeting...</a></h3>
+<form method="post" action="{% url action="goodbye" %}">
+Delete:<select name="greeting_id">
+{% for greeting in greetings %}
+<option value="{{ greeting.id }}">{{ greeting.greeting_text }} : {{ greeting.author }}</option>
+{% endfor %}
+</select>
+<input type="submit">
+</form>
+{% endblock %}
+</body></html>
