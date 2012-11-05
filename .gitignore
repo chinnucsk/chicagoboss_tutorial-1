@@ -1,2 +1,7 @@
 *beam
 *.log
+.eunit
+deps
+*.o
+*.beam
+*.plt

@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cal",
+				"calendar"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"Presence",
+				"PresenceClientProtocol"
+			],
+			[
+				"Pre",
+				"PresenceBot"
+			],
+			[
+				"jid",
+				"jid_to_string/1"
+			],
+			[
+				"ejabberd",
+				"ejabberd_hooks"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/controller/primus_greeting_controller.erl",
+			"settings":
+			{
+				"buffer_size": 1173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/view/greeting/live.html",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "priv/primus.routes",
+			"settings":
+			{
+				"buffer_size": 1051,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/model/greeting.erl",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/view/greeting/create.html",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Sse",
+				"Set Syntax: Erlang"
+			],
+			[
+				"se",
+				"Set Syntax: Erlang"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet",
+				"Set Syntax: Sublime Text Snippet (Raw)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Module Directive"
+			],
+			[
+				"MNark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brenthoover/Projects/erl/primus/src/controller/primus_greeting_controller.erl",
+		"/Users/brenthoover/Projects/erl/primus/src/view/greeting/create.html",
+		"/Users/brenthoover/Projects/erl/primus/src/view/greeting/hello.html",
+		"/Users/brenthoover/Projects/erl/primus/src/view/greeting/list.html",
+		"/Users/brenthoover/Projects/erl/primus/src/view/greeting/index.html",
+		"/Users/brenthoover/Projects/erl/primus/src/model/greeting.erl",
+		"/Users/brenthoover/Projects/erl/primus/priv/primus.routes",
+		"/Users/brenthoover/Projects/erl/primus/priv/init/primus_01_news.erl",
+		"/Users/brenthoover/Projects/erl/primus/priv/static/bootstrap.css",
+		"/Users/brenthoover/Dropbox/Packages/kickstarts/bootstrap/README.md",
+		"/Users/brenthoover/Projects/erl/example_wiki/src/controller/example_wiki_greeting_controller.erl",
+		"/Users/brenthoover/Projects/erl/example_wiki/priv/example_wiki.routes.ignore",
+		"/Users/brenthoover/Projects/erl/example_wiki/src/example_wiki.app.src",
+		"/Users/brenthoover/Projects/erl/example_wiki/start-server.bat",
+		"/Users/brenthoover/Projects/erl/sc_server/untitled.sublime-project",
+		"/Users/brenthoover/Projects/erl/sc_server/cache_server.sublime-project",
+		"/Users/brenthoover/Projects/erl/sc_server/README.md",
+		"/Users/brenthoover/Projects/erl/sc_server/ebin/sc_server.app",
+		"/Users/brenthoover/Projects/erl/sc_server/src/sc_store.erl",
+		"/Users/brenthoover/Projects/erl/sc_server/src/sc_server_sup.erl",
+		"/Users/brenthoover/Projects/erl/sc_server/src/sc_server.erl",
+		"/Users/brenthoover/Projects/erl/sc_server/src/sc_element.erl",
+		"/Users/brenthoover/Projects/erl/sc_server/src/sc_server_app.erl",
+		"/Users/brenthoover/Projects/erl/sc_server/src/simple_cache.erl",
+		"/Users/bhoover/Projects/erl/sc_server/README",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/erlang_def_server_snippet.snippet",
+		"/Users/bhoover/Projects/erl/sc_server/deps/edown/README.md",
+		"/Users/bhoover/Projects/erl/sc_server/rebar.config",
+		"/Users/bhoover/Projects/erl/Makefile_Templates/MakefilefromRebar",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/Main.sublime-menu",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/bhoover/Projects/erl/sc_server/src/sc_server.app.src",
+		"/Users/bhoover/Projects/erl/sc_server/src/sc_server_sup.erl",
+		"/Users/bhoover/Projects/erl/sc_server/cache_server.sublime-project",
+		"/Users/bhoover/Projects/erl/sc_server/.gitignore",
+		"/Users/bhoover/Projects/erl/sc_server/Emakefile",
+		"/Users/bhoover/Projects/erl/sc_server/Makefile",
+		"/Users/bhoover/Dropbox/PlainText/buddhist/eightfold_path.md",
+		"/Users/bhoover/Dropbox/PlainText/info.txt",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/Users/bhoover/Projects/erl/sar_monitor/sar_values.erl",
+		"/Users/bhoover/Projects/erl/sar_monitor/sar.erl",
+		"/Users/bhoover/Projects/py/shovel/example/shovel/foo.py",
+		"/Users/bhoover/Projects/erl/sar_monitor/sar_collect.erl",
+		"/Users/bhoover/Projects/py/shovel/example/shovel/bar.py",
+		"/Users/bhoover/Dropbox/brentblog/bootstrap2/templates/base.html",
+		"/Users/bhoover/.ssh/config",
+		"/Users/bhoover/Projects/java/primus-server2/.m2/settings.xml",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/bhoover/Projects/py/python_proxy/proxy.py",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/SublimeEvernote.sublime-settings",
+		"/Users/bhoover/Projects/py/brentblog/pelican.conf.py",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/SublimeServer.sublime-settings",
+		"/Users/bhoover/Projects/py/brentblog/theme/templates/base.html",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/templates/sidebar.html",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/templates/base.html",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/templates/index.html",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/templates/twitter_snippet.html",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/check_logs.sh",
+		"/Users/bhoover/Dropbox/MarkdownNote/blogposts/article2.md",
+		"/Users/bhoover/Projects/py/brentblog/pelican.sublime-build",
+		"/Users/bhoover/Projects/py/brentblog/README.md",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/templates/twitter.html",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/templates/twitter_profile.html",
+		"/Users/bhoover/bin/dotfiles/ssh/config_2link2",
+		"/Users/bhoover/Dropbox/Packages/erl/fsm_example/fms_example.erl",
+		"/Users/bhoover/Projects/py/brentblog/src/posts/article1.md",
+		"/Users/bhoover/Projects/py/brentblog/src/pages/about_me.md",
+		"/Users/bhoover/Projects/py/brentblog/src/pages/projects.md",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/static/css/bootstrap.min.css",
+		"/Users/bhoover/Projects/py/brentblog/src/posts/super-article.rst",
+		"/Users/bhoover/Projects/py/brentblog/src/pages/article1.md",
+		"/Users/bhoover/Projects/py/brentblog/src/posts/article2.md",
+		"/Users/bhoover/Projects/py/brentblog/output/index.html",
+		"/Users/bhoover/Projects/py/brentblog/Makefile",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/SimpleSync/SimpleSync.sublime-settings",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/snipt/Snipt.sublime-settings",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/Pelican/pelican.sublime-build",
+		"/Users/bhoover/Projects/py/brentblog/basic/static/css/style.css",
+		"/Users/bhoover/Projects/py/brentblog/bootstrap2/README.rst",
+		"/Users/bhoover/Projects/py/brentblog/src/articles/super-article.rst",
+		"/Users/bhoover/Projects/py/brentblog/src/articles/article1.md",
+		"/Users/bhoover/Projects/py/brentblog/src/articles/article2.md",
+		"/Users/bhoover/Projects/py/brentblog/untitled.sublime-build",
+		"/Users/bhoover/Projects/py/brentblog/src/pages/article1",
+		"/Users/bhoover/Projects/java/primus-server/fabfile.py",
+		"/Users/bhoover/Projects/py/echobot/echo_server.tac",
+		"/Users/bhoover/bin/terracotta-3.6.2/config-samples/tc-config-express-reference.xml",
+		"/Users/bhoover/Projects/erl/tsung/tsung1.xml",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberd_rabbitmq_sup.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberd_rabbitmq.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_grindr_lager.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_grindr_presence.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_grindr_stats.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberd_redis_sup.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/session_log.xml",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberd_redis.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_grindr_policy.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/amqp/include/amqp_client.hrl",
+		"/Users/bhoover/Projects/erl/tsung/examples/jabber_register.in",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberd.app",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberd.cfg.example",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberdctl.cfg.example",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_stats.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/ejabberd_captcha.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/tools/xmpp_bot.py",
+		"/Users/bhoover/Projects/erl/old_chat_echo/etc/ejabberd/ejabberd.cfg",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_irc/mod_irc_connection.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_deprecate.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_announce.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_echo.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_sunshine.erl",
+		"/Users/bhoover/Projects/erl/chatrepo/src/mod_interceptor.erl",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/erlanger/lager.sublime-snippet",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/erlanger/behaviour.sublime-snippet",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/User/erlanger/untitled.sublime-build",
+		"/Users/bhoover/Projects/erl/chatrepo/.gitignore",
+		"/Users/bhoover/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/bhoover/Projects/erl/chatrepo/.gitmodules"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/bhoover/Projects/erl/chatrepo/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"example_wiki.routes",
+			"web",
+			"Pid",
+			"xmlelement, \"message\"",
+			"Timestamp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/controller/primus_greeting_controller.erl",
+					"settings":
+					{
+						"buffer_size": 1173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1173,
+								1173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/view/greeting/live.html",
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "priv/primus.routes",
+					"settings":
+					{
+						"buffer_size": 1051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								803,
+								803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/model/greeting.erl",
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/view/greeting/create.html",
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true
+}
